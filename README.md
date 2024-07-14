@@ -24,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tonmoy day sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonmoy day sarkar" height="30" width="40" /></a>
-<a href="https://fb.com/tonmoy sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tonmoy sarkar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tonmoy-day-sarkar-6502842b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonmoy day sarkar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100071804127154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tonmoy sarkar" height="30" width="40" /></a>
 <a href="https://instagram.com/ts_tonmoy8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ts_tonmoy8" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tonmoysarkar7722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tonmoysarkar7722" height="30" width="40" /></a>
 </p>
