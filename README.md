@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tonmoy Day Sarkar</h1>
 
-<div align="center"><img src="https://github.com/tonmoy7722/tonmoy7722/blob/main/mybanner.png"></div>
+<div align="center"><img src="https://github.com/tonmoy7722/tonmoy7722/blob/main/tonmoy banner.png"></div>
   
 <h3 align="center">A passionate software engineer from Bangladesh.</h3>
 
@@ -8,17 +8,19 @@
 
 - 🔭 I’m currently working on **Geospatial and Statistical Analysis**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tonmoy7722](https://github.com/tonmoy7722)
+- 👨‍💻 All of my projects are available at [github.com/tonmoy7722](https://github.com/tonmoy7722)
 
 - 💬 Ask me about **Web Development, Python**
 
 - 📫 How to reach me **tonmoysarkar7722@gmail.com**
 
-- 📄 Know about my experiences [www.mywebsite.com](https://drive.google.com/file/d/1ZdLpFJ-uxRVy4gmmuNZs6dzrim2n80ft/view?usp=sharing)
+- 🌐 Know about my experiences [www.mywebsite.com](https://github.com/tonmoy7722/Tonmoy-Portfolio)
+
+- 📄 My resume [Tonmoy Day Sarkar](https://drive.google.com/file/d/1ZdLpFJ-uxRVy4gmmuNZs6dzrim2n80ft/view?usp=sharing)
 
 - ⚡ Fun fact **I can travel anywhere in a second**
 
