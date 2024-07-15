@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tonmoysarkar7722@gmail.com**
 
-- 🌐 Know about my experiences [www.mywebsite.com](https://github.com/tonmoy7722/Tonmoy-Portfolio)
+- 🌐 Know about my experiences [www.mywebsite.com](https://github.com/tonmoy7722/Tonmoy-Portfolio/)
 
 - 📄 My resume [Tonmoy Day Sarkar](https://drive.google.com/file/d/1Ufmut2reIS2IaGppaVd_x91WIqDKtrNO/view?usp=sharing)
 
