@@ -20,7 +20,7 @@
 
 - 🌐 Know about my experiences [www.mywebsite.com](https://tonmoy7722.github.io/Tonmoy-Portfolio/)
 
-- 📄 My resume [Tonmoy Day Sarkar](https://drive.google.com/file/d/1Ufmut2reIS2IaGppaVd_x91WIqDKtrNO/view?usp=sharing)
+- 📄 My resume [Tonmoy Day Sarkar](https://drive.google.com/file/d/1dOXzEHF0_NZI0ZcNOuF_dKD7tmc4dgi9/view?usp=sharing)
 
 - ⚡ Fun fact **I can travel anywhere in a second**
 
