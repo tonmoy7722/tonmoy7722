@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a B.Tech graduate in Computer Engineering (Software Engineering) from Jain Deemed-to-be University, Bangalore (2020–2024). I work on machine learning, data analysis, and geospatial and statistical analysis, and I'm a fast learner who enjoys solving hard problems.
+I'm a B.Tech graduate in Computer Engineering (Software Engineering) from Jain (Deemed-to-be University), Bangalore (2020–2024). I work on machine learning, data analysis, and geospatial and statistical analysis, and I'm a fast learner who enjoys solving hard problems.
 
 - 🔭 Currently working on **Geospatial & Statistical Analysis** and applied **Machine Learning**
 - 💼 **Open to work** in Bangladesh: ML, data, and software roles
